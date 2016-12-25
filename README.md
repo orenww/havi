@@ -1,5 +1,5 @@
 # havi
-#Documnets/work/myProjects
+Documnets/work/myProjects
 
 Client
 -------------------
